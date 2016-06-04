@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=nama\ x\ y
+comment0.target=Lokasi(java.lang.String,\ double,\ double)
+comment0.text=\r\n\ Konstruktor\ dari\ kelas\ Lokasi\r\n\ @param\ nama\ Nama\ lokasi\r\n\ @param\ x\ Koordinat\ x\r\n\ @param\ y\ Koordinat\ y\r\n
+comment1.params=x\ y
+comment1.target=Lokasi(double,\ double)
+comment1.text=\r\n\ Konstruktor\ dari\ kelas\ Lokasi\r\n\ @param\ x\ Koordinat\ x\r\n\ @param\ y\ Koordinat\ y\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment2.text=\r\n\ Method\ untuk\ mendapatkan\ nama\ Lokasi\r\n\ @return\ Nama\ Lokasi\r\n
+comment3.params=
+comment3.target=double\ getX()
+comment3.text=\r\n\ Method\ untuk\ mendapatkan\ koordinat\ x\ Lokasi\r\n\ @return\ Koordinat\ x\ Lokasi\r\n
+comment4.params=x
+comment4.target=void\ setX(double)
+comment4.text=\r\n\ Method\ untuk\ mengubah\ koordinat\ x\ Lokasi\r\n\ @param\ x\ Koordinat\ x\r\n
+comment5.params=y
+comment5.target=void\ setY(double)
+comment5.text=\r\n\ Method\ untuk\ mengubah\ koordinat\ y\ Lokasi\r\n\ @param\ y\ Koordinat\ y\r\n
+comment6.params=
+comment6.target=double\ getY()
+comment6.text=\r\n\ Method\ untuk\ mendapatkan\ koordinat\ y\ Lokasi\r\n\ @return\ Koordinat\ y\ Lokasi\r\n
+comment7.params=x\ y
+comment7.target=void\ setLokasiBaru(double,\ double)
+comment7.text=\r\n\ Method\ untuk\ mengatur\ koordinat\ lokasi\ baru\r\n\ @param\ x\ Koordinat\ x\ baru\r\n\ @param\ y\ Koordinat\ y\ baru\r\n
+numComments=8

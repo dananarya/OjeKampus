@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=id\ nama
+comment0.target=User(int,\ java.lang.String)
+comment0.text=\r\n\ Konstruktor\ dari\ kelas\ User\r\n\ @param\ id\ Nomor\ ID\ User\r\n\ @param\ nama\ Nama\ User\r\n
+comment1.params=
+comment1.target=int\ getID()
+comment1.text=\r\n\ Method\ untuk\ mendapatkan\ ID\ User\r\n\ @return\ ID\ User\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment2.text=\r\n\ Method\ untuk\ mendapatkan\ nama\ User\r\n\ @return\ Nama\ User\r\n
+comment3.params=xAwal\ yAwal\ xTujuan\ yTujuan
+comment3.target=void\ panggilOjekPenumpang(double,\ double,\ double,\ double)
+comment3.text=\r\n\ Method\ untuk\ memanggil\ ojek\ penumpang\r\n\ @param\ xAwal\ Koordinat\ x\ awal\r\n\ @param\ yAwal\ Koordinat\ y\ awal\r\n\ @param\ xTujuan\ Koordinat\ x\ tujuan\r\n\ @param\ yTujuan\ Koordinat\ y\ tujuan\r\n
+comment4.params=xAwal\ yAwal\ xTujuan\ yTujuan\ penerima
+comment4.target=void\ panggilOjekBarang(double,\ double,\ double,\ double,\ java.lang.String)
+comment4.text=\r\n\ Method\ untuk\ memanggil\ ojek\ barang\r\n\ @param\ xAwal\ Koordinat\ x\ awal\r\n\ @param\ yAwal\ Koordinat\ y\ awal\r\n\ @param\ xTujuan\ Koordinat\ x\ tujuan\r\n\ @param\ yTujuan\ Koordinat\ y\ tujuan\r\n\ @param\ penerima\ Nama\ penerima\ barang\r\n
+comment5.params=xAwal\ yAwal\ xTujuan\ yTujuan\ penerima\ biaya
+comment5.target=void\ panggilOjekBeli(double,\ double,\ double,\ double,\ java.lang.String,\ double)
+comment5.text=\r\n\ Method\ untuk\ memanggil\ ojek\ barang\ dengan\ nilai\ baran\ yang\ harus\ dibayar\ terlebih\ dahulu\r\n\ @param\ xAwal\ Koordinat\ x\ awal\r\n\ @param\ yAwal\ Koordinat\ y\ awal\r\n\ @param\ xTujuan\ Koordinat\ x\ tujuan\r\n\ @param\ yTujuan\ Koordinat\ y\ tujuan\r\n\ @param\ penerima\ Nama\ penerima\ barang\r\n\ @param\ biaya\ Biaya\ barang\ yang\ dibayar\r\n
+numComments=6

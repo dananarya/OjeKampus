@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GUI()
+comment0.text=\r\n\ Konstruktor\ dari\ kelas\ GUI\r\n
+comment1.params=
+comment1.target=void\ buildGUI()
+comment1.text=\r\n\ Metode\ untuk\ melakukan\ inisiasi\ GUI\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Metode\ override\ actionPerformed\ untuk\ menghandle\ event\ ketika\ mengklik\ button\r\n\ @param\ e\ Action\ event\r\n
+comment3.params=e
+comment3.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment3.text=\r\n\ Metode\ override\ itemStateChanged\ untuk\ menghandle\ event\ dari\ JComboBox\r\n\ @param\ e\ Item\ event\r\n
+comment4.params=
+comment4.target=java.lang.String\ getLayanan()
+comment4.text=\r\n\ Metode\ untuk\ mendapatkan\ jenis\ layanan\ dari\ JComboBox\r\n\ @return\ Jenis\ layanan\r\n
+comment5.params=text
+comment5.target=void\ logLaporan(java.lang.String)
+comment5.text=\r\n\ Metode\ untuk\ menuliskan\ log\ laporan\ ojek\ pada\ JTextArea\r\n
+comment6.params=text
+comment6.target=void\ logPesanan(java.lang.String)
+comment6.text=\r\n\ Metode\ untuk\ menuliskan\ log\ pesanan\ pada\ JTextArea\r\n
+numComments=7
